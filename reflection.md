@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jackson Rosenthal
+Sudent Email:  jrosen27@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+It was good to get to refresh on creating functions with normal python codes like .replace, .datetime, etc just to keep them in mind and remember how they work. For the extract python file, I thought most of it was primarily straight forward in reading in a file, applying created functions to the file, and then finally adding columns to the file, and saving the new file to a csv file, to help with recollecting the data at a later data. For the extract file, I struggled a little more with copying exactly what was needed for column names so that I was getting the correct info to transform the dataset correctly as intended, and it was a lot of code to do get correct to get the full thing done, and some of the merges were made difficult by the left on and right on being multiple column names, which is very different from normal. Applying the functions to some of the columns required was also quite the hastle at times because of super long column names. Finally, in the load python file, it was very simple for loop, allowing you to loop over each file and upload it to the ist356mafudge online spot as a csv file. Overall, through this, I was able to continue to polish my skills in for loop creation, applying functions to column names, figuring out which attributes of a dataset to use and the exact name of these attributes, and function creation. 
